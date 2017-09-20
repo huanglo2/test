@@ -18,7 +18,7 @@ public class Food<K,V,L> {
 		this.v = v;
 	}
 	public L getL() {
-		return l;
+		return l;  
 	}
 	public void setL(L l) {
 		this.l = l;
